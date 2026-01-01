@@ -1,0 +1,5 @@
+| Symptom               | Likely Cause                        | Solution                                   |        
+| --------------------- | ------------------------------- --- | ------------------------------------------ | 
+| Can't SSH to instance | SSH port blocked or instance down   | Open port 22, check if instance is running |
+| Website not loading   | Web server down or HTTP blocked     | Start the web server and open ports 80/443 |       
+| API calls timing out  | API service down or network blocked | Start the API service and check network    |
